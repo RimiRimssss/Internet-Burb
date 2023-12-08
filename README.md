@@ -1,2 +1,2 @@
 # Internet Burb 
- An Infitely Side-scrolling Game
+ An Infinitely Side-scrolling Game
